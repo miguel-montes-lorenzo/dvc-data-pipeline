@@ -31,7 +31,7 @@ pip install -r src/requirements.txt
 **Git commit the sample code and data**
 
 ```
-git add data/ params.yaml src .gitignore 
+git add .
 git commit -m "Initial commit"
 ```
 
