@@ -90,6 +90,8 @@ Next, we immediately commit dvc.lock to Git after its creation or modification, 
 
 ```
 git add dvc.lock && git commit -m "first pipeline repro"
+
+git push origin main
 ```
 
 Visualizing the pipeline
