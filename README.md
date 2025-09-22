@@ -28,12 +28,6 @@ dvc add data/data.xml
 pip install -r src/requirements.txt
 ```
 
-**Git commit the sample code and data**
-
-```
-git add .
-git commit -m "Initial commit"
-```
 
 ## Pipeline Stages
 
