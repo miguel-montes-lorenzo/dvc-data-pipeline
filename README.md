@@ -1,4 +1,14 @@
- Turn the git repo into DVC repo
+Clone repo and install dvc
+```
+uv venv
+
+git clone https://github.com/miguel-montes-lorenzo/dvc-data-pipeline.git
+
+cd dvc-data-pipeline
+```
+
+
+Turn the git repo into DVC repo
 
 ```
 dvc init
