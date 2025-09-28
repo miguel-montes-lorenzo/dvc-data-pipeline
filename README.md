@@ -110,7 +110,7 @@ git commit -m "Add DVC pipeline stage: train"
 
 ## Running the pipeline
 
-It uses dvc.yaml to easily reproduce the pipeline.
+It uses dvc.yaml to easily reproduce the full pipeline.
 
 ```bash
 dvc repro
